@@ -2,3 +2,4 @@ streamlit
 mnemonic
 eth-utils
 eth-keys
+pycryptodome
